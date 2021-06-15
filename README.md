@@ -1,7 +1,39 @@
-### Hi there 👋
+## 👋🏻 Hi there  
+
+- 한국소프트웨어인재개발원(KOSMO)에서 2021-03-15 ~ 2021-09-03 응용SW활용 빅데이터구축 전문가양성과정 진행중입니다.
+- 자바를 기반으로 언어를 배우고 있으며 HTML CSS JSP JavaScript 웹 언어와 OracleDB를 배워서 현재 Spring을 통해 복합 개발을 배우고 있습니다.
+- 쥬니어개발자 수준이 될 수 있도록 노력중입니다.
+<br>
+
+
+<div id="main" align="center">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=rkdntm1&hide=stars,contribs&count_private=true&show_icons=true"
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</div>
+
+
+## 👩🏻‍💻 Tech Stack 
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+</p>
+
 
 <!--
-**rkdntm1/rkdntm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leejieuns2/leejieuns2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
